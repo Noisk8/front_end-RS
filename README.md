@@ -1,1 +1,3 @@
-# front_end-bback_end_RS
+# front_end Rust 
+
+Front end echo en rust, usando la libreria rocket WIP
